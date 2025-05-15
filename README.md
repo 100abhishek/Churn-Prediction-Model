@@ -51,7 +51,7 @@ See `requirements.txt` in the repo.
 
 **Abhishek Singh**  
 Research Analyst & ML Enthusiast  
-[GitHub](https://github.com/your-username) | [LinkedIn](https://linkedin.com)
+[GitHub](https://github.com/100abhishek) | [LinkedIn](https://www.linkedin.com/in/abhisheksingh100/)  
 
 ---
 
